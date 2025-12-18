@@ -930,13 +930,11 @@ in the Software without restriction...
 
 ## 👨‍💻 Author
 
-### **Your Name**
+### **Mohit Kumar**
 
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)
-- 📧 **Email**: your.email@example.com
-- 📺 **YouTube**: [Your Channel](https://youtube.com/@yourchannel)
+- 🐙 **GitHub**: [@mohitkumar7-123](https://github.com/mohitkumar7-123)
+- 📧 **Email**: mohitkumar123@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/mohit-kumar](https://linkedin.com/in/mohit-kumar)
 
 ### Skills Demonstrated
 
